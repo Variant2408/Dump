@@ -42,4 +42,7 @@ ability to select choice of implementation during the invocation-> Spring rest t
 29. Difference between Hashtable and ConcurrentHashMap
 30. I was prepared for HashMap vs. Hashtable but didn’t know this difference.
 31. How to optimize an API that makes multiple API calls, then checks the cache, and finally queries the database?
-32. 
+32. how to handle dependency injeciton in case of circular dependencies in springboot
+33.  How to change port number of a spring app
+34.  @Controller vs @RestController
+35.  
