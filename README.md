@@ -45,4 +45,7 @@ ability to select choice of implementation during the invocation-> Spring rest t
 32. how to handle dependency injeciton in case of circular dependencies in springboot
 33.  How to change port number of a spring app
 34.  @Controller vs @RestController
-35.  
+35.  Design a system that explains how audio streaming works in Alexa when a user asks it to perform an operation like playing music.
+36.  Retry Pattern with Resilience4j
+37.  Round 3: System Design - Notification Service:
+Requirements: Multiple channels, scheduled notifications, priority delivery, retries, status tracking, scale to 10M/day.
