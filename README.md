@@ -49,3 +49,11 @@ ability to select choice of implementation during the invocation-> Spring rest t
 36.  Retry Pattern with Resilience4j
 37.  Round 3: System Design - Notification Service:
 Requirements: Multiple channels, scheduled notifications, priority delivery, retries, status tracking, scale to 10M/day.
+38. How Authentication and Authorization works .
+39. PATCH Vs PUT http methods
+40. What is sharding , how it is useful , and what is celebrity problem , what happends if no. of servers changes how do you handle that .
+41. What is partitioning and how it is diff to sharding
+42. what is indexing how it helps in query optimization / how it works internally .
+43. Do you review PR's and how you will provide the review comments to your collegues .
+44. If you are facing the 504 gateway timeout , what are the cases and how you will figure out and how u will solve the issues .
+45. Design a HLD for whatsapp like chat system -- I wasn't went throught the system design , but told him about the web sockets and message queues for notifications . He asked me to look back how the websocket works .
